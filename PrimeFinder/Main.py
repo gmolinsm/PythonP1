@@ -1,4 +1,4 @@
-print("Please enter the numer of primes to calculate: ")
+print("Please enter the number of primes to calculate: ")
 n = int(input())
 
 numberList = list(range(2, n+1))
